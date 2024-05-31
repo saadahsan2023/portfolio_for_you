@@ -94,7 +94,7 @@ export const PROJECT = [
 ]
 
 export const EMAIL = {
-    name: 'saad',
+    name: 'kacha qila shah fisal colony Hyedrabad',
     email: 'saadahsankhan@gmail.com',
     contact: '03153021306'
 }
