@@ -8,9 +8,9 @@ function Contact() {
                 <h1 className="my-20 text-center text-4xl">Contact</h1>
 
                 <div className='text-center tracking-tighter'>
-                    <p className='my-4'>{EMAIL.name}</p>
                     <p className='my-4'>{EMAIL.email}</p>
                     <a href='#' className='border-b'>{EMAIL.contact}</a>
+                    <p className='my-4'>{EMAIL.name}</p>
 
 
                 </div>
